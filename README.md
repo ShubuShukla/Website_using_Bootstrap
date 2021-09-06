@@ -1,2 +1,2 @@
 # Website_using_Bootstrap
-This is the Food delivery website that i have made using Bootstrap along with HTML ,CSS and alittle of JS also.
+This is the Food delivery website that i have made using Bootstrap along with HTML ,CSS and a little of JS also.
